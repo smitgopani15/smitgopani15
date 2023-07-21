@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Smit Gopani</h1>
+<h1 align="center">Hi 👋, I'm Smit Gopani</h1> <br>
 
 - 🔭 I’m currently working on **Flutter**
 
