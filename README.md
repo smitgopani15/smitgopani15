@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Smit Gopani</h1>
 <h3 align="center">A passionate Flutter APP Developer from India</h3>
 
-- 🔭 I’m currently working on **flutter**
+- 🔭 I’m currently working on **Flutter**
 
 - 📫 How to reach me **smgopani15@gmail.com**
 
