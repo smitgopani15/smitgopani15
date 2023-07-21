@@ -1,4 +1,4 @@
-<img align="center" width="900" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
+<img align="center" width="900" src="">
 
 <h1 align="center">Hi 👋, I'm Smit Gopani</h1>
 <h3 align="center">A passionate Flutter APP Developer from India</h3>
