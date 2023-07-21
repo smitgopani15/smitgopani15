@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @smitgopani15
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<img align="center" width="900" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png">
 
-<!---
-smitgopani15/smitgopani15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Smit Gopani</h1>
+<h3 align="center">A passionate Flutter APP Developer from India</h3>
+
+- 🌱 I’m currently learning Flutter Development
+
+- 👨‍💻 All of my projects are available at https://github.com/smitgopani15
+
+- 💬 Ask me about C, C++, Dart
+
+- 📫 How to reach me smgopani15@gmail.com
