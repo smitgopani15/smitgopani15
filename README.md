@@ -13,7 +13,7 @@ class AboutMe extends ApplicationDeveloper {
 
   @override
   List<Skills> getSkills() {    
-    List<Skills> languages  = ['C', 'C++', 'Dart', 'PHP', 'Python'];
+    List<Skills> languages  = ['C', 'C++', 'Dart', 'PHP'];
     return languages;   
   }
 }
