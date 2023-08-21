@@ -7,7 +7,7 @@
 - ⚡ Fun fact **Error Solver !** <br> <br>
 
 - <h3 align="left">Languages and Tools : </h3>
-- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -15,3 +15,16 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+
+```css
+ 
+- 🔭 I'm currently working on Flutter Application Development...
+
+- 🌱 I’m currently learning Python[Data Scince]...
+
+- 💬 Ask me about anything which confused you in DSA or FLUTTER
+
+- 📫 How to reach me **jaygondaliya147@gmail.com**
+
+  ```
