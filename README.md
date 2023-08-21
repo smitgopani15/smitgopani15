@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smit Gopani !</h1>
 
 ## 💫 About Me :
-
 ``` dart
 
 import 'dev-community:india/flutter-devs';
