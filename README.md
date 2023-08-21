@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Smit Gopani !</h1> <br>
+<h1 align="center">Hi 👋, I'm Smit Gopani !</h1>
 
 ## 💫 About Me :
 ``` dart
@@ -29,8 +29,7 @@ class AboutMe extends ApplicationDeveloper {
 
 ```
 
-
-## 🌐 Socials:
+## 🌐 Socials :
 
 ## 💻 Tech Stack :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
