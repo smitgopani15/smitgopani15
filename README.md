@@ -2,11 +2,11 @@
 
 ```css
 
-- 🔭 I’m currently working on **Flutter !**
+- 🔭 I’m currently working on Flutter !
 
-- 📫 How to reach me **smgopani15@gmail.com !**
+- 📫 How to reach me smgopani15@gmail.com !
 
-- ⚡ Fun fact **Error Solver !** <br> <br>
+- ⚡ Fun fact Error Solver !
 
 ```
 
