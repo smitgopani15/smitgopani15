@@ -29,7 +29,6 @@ class AboutMe extends ApplicationDeveloper {
 
 ```
 
-<br>
 
 ## 🌐 Socials:
 
