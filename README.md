@@ -18,7 +18,7 @@ class AboutMe extends ApplicationDeveloper {
 ```
 
 ### 🌐 Socials :
-[![Gmail](https://img.shields.io/badge/Gmail-%FF0000.svg?logo=gmail&logoColor=white)](smgopani15@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-%23F24E1E.svg?logo=gmail&logoColor=white)](smgopani15@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitgopani15) 
 
 ### 💻 Tech Stack :
