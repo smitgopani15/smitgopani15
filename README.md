@@ -1,5 +1,25 @@
 <h1 align="center">Hi 👋, I'm Smit Gopani !</h1>
 
+# 💫 About Me:
+
+``` dart
+
+import 'dev-community:india/flutter-devs';
+
+class AboutMe extends ApplicationDeveloper {
+  static final String name = "Smit Gopani";
+  dynamic title = "Flutter Developer";
+  dynamic location = "Surat - Gujarat, India";
+
+  @override
+  List<Skills> getSkills() {    
+    List<Skills> languages  = ['C', 'C++', 'Dart', 'PHP', 'Python'];
+    return languages;   
+  }
+}
+
+```
+
 ```css
 
 - 🔭 I’m currently working on Flutter !
