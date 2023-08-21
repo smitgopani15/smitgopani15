@@ -24,7 +24,7 @@ class AboutMe extends ApplicationDeveloper {
 ![C](https://img.shields.io/badge/C-00599c.svg?style=box&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599c.svg?style=box&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-00599c.svg?style=box&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%2300599C.svg?style=box&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-232531.svg?style=box&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2300599C.svg?style=box&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%2300599C.svg?style=box&logo=firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%2300599C.svg?style=box&logo=figma&logoColor=white)
