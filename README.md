@@ -28,7 +28,7 @@ class AboutMe extends ApplicationDeveloper {
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=box&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=box&logo=Firebase&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=box&logo=Figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=box&logo=Photoshop&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=box&logo=adobephotoshop&logoColor=white)
 
 ### ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
