@@ -1,6 +1,5 @@
 ### 💫 About Me :
 ``` dart
-
 import 'dev-community:india/flutter-devs';
 
 class AboutMe extends ApplicationDeveloper {
@@ -14,17 +13,6 @@ class AboutMe extends ApplicationDeveloper {
     return languages;   
   }
 }
-
-```
-
-```css
-
-- 🔭 I’m currently working on Flutter !
-
-- 📫 How to reach me smgopani15@gmail.com !
-
-- ⚡ Fun fact Error Solver !
-
 ```
 
 ### 🌐 Socials :
