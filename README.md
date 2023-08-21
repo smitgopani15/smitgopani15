@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smit Gopani !</h1>
 
-### 💫 About Me :
+## 💫 About Me :
 
 ``` dart
 
@@ -30,6 +30,7 @@ class AboutMe extends ApplicationDeveloper {
 
 ```
 
+## 💻 Tech Stack :
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -39,5 +40,5 @@ class AboutMe extends ApplicationDeveloper {
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-### ✍️ Random Dev Quote :
+## ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
