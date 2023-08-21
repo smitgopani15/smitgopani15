@@ -21,8 +21,8 @@ class AboutMe extends ApplicationDeveloper {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1.svg?style=box&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smitgopani15)
 
 ### 💻 Tech Stack :
-![C](https://img.shields.io/badge/C-283593.svg?style=box&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-659ad2.svg?style=box&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-659ad2.svg?style=box&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599c.svg?style=box&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%2300599C.svg?style=box&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-%2300599C.svg?style=box&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2300599C.svg?style=box&logo=flutter&logoColor=white)
