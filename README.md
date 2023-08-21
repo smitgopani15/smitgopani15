@@ -28,6 +28,9 @@ class AboutMe extends ApplicationDeveloper {
 - ⚡ Fun fact Error Solver !
 
 ```
+
+<br>
+
 ## 🌐 Socials:
 
 ## 💻 Tech Stack :
